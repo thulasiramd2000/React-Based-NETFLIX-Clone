@@ -1,7 +1,7 @@
-Netflix Clone Project
+Netflix Clone Project:
 This project is a clone of Netflix, aimed at replicating the core features of the popular streaming platform. It's built using modern web technologies and integrates with Firebase for backend services. The project is designed for educational and portfolio purposes, showcasing the ability to build complex, responsive web applications.
 
-Features
+Features:
 Firebase Integration: Utilizes Firebase for hosting and backend services. The firebase.json configuration indicates a public directory for hosting and specifies files and directories to ignore during deployment.
 React Framework: Built with React (v17.0.1), leveraging its efficient update and rendering capabilities for dynamic user interfaces.
 Routing: Uses react-router-dom (v5.2.0) for navigating between components without refreshing the page.
